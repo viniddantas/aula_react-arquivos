@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // Importa o React Router para criar e gerenciar rotas entre páginas.
 import Login from "./Login"; // Importa o componente de Login.
 import Dashboard from "./Dashboard"; // Importa o componente de Dashboard.
+
 function App() {
     return (
         <Router>
